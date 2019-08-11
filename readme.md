@@ -1,4 +1,6 @@
-# nextdiff
+# cypressdiff
+
+Used zeit/nextdiff as a base.
 
 **Github action for Next.js projects.** Takes a screenshot of your changed pages and writes a comment on the PR.
 
